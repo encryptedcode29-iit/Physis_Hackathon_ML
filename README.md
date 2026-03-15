@@ -442,4 +442,3 @@ Built for the **Physis Techne Symposium 2026** ML challenge on automated quantum
 
 ---
 
-*MIT License*
